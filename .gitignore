@@ -1,0 +1,27 @@
+## Qt / qmake 构建产物
+build/
+build-*/
+debug/
+release/
+*.pro.user
+.qmake.stash
+Makefile
+Makefile.*
+.qtc_clangd/
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+*.pdb
+*.ilk
+*.log
+
+## Qt Creator
+.qtcreator/
+*.pro.user.*
